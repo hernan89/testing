@@ -1,0 +1,17 @@
+{
+  "status": "open_amount",
+  "collector": {
+    "name": "Enersa",
+    "identification_number": "30709176672",
+    "account": "0000220400000000017361"
+  },
+  "order": {
+    "items": [
+      {
+        "title": "ENERGIA DE ENTRE RIOS SOCIEDAD ANONIMA (ENER SA)",
+        "quantity": 1
+      }
+    ],
+    "id": "37020790-4750-4e82-a764-ba69bd25493a"
+  }
+}
